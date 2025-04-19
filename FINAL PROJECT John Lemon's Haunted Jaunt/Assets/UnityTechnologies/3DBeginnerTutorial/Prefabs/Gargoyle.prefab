@@ -97,6 +97,7 @@ GameObject:
   - component: {fileID: 2591690289315892705}
   - component: {fileID: 2591690289308901889}
   - component: {fileID: 1361014650587847964}
+  - component: {fileID: 4994420035500446348}
   m_Layer: 0
   m_Name: Gargoyle
   m_TagString: Untagged
@@ -156,6 +157,19 @@ CapsuleCollider:
   m_Height: 1.8
   m_Direction: 1
   m_Center: {x: 0, y: 0.9, z: 0}
+--- !u!114 &4994420035500446348
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2591690289316319681}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 954c5b22499128a41a2ea8d2c7123c21, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  explosionPrefab: {fileID: 388051065246649250, guid: c86eab778549d83488c0b184f95c75a3, type: 3}
 --- !u!1001 &3721020695188553323
 PrefabInstance:
   m_ObjectHideFlags: 0
