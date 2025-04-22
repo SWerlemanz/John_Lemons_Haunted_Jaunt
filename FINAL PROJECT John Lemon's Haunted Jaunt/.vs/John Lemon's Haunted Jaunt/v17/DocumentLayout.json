@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\John Lemon\u0027s Haunted Jaunt\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A670D93D-C6A0-7297-5DEF-E3FC3A03D080}|Assembly-CSharp.csproj|C:\\John Lemon\u0027s Haunted Jaunt\\assets\\unitytechnologies\\3dbeginnertutorial\\scripts\\gameending.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A670D93D-C6A0-7297-5DEF-E3FC3A03D080}|Assembly-CSharp.csproj|solutionrelative:assets\\unitytechnologies\\3dbeginnertutorial\\scripts\\gameending.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A670D93D-C6A0-7297-5DEF-E3FC3A03D080}|Assembly-CSharp.csproj|c:\\john lemon\u0027s haunted jaunt\\assets\\unitytechnologies\\3dbeginnertutorial\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A670D93D-C6A0-7297-5DEF-E3FC3A03D080}|Assembly-CSharp.csproj|solutionrelative:assets\\unitytechnologies\\3dbeginnertutorial\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A670D93D-C6A0-7297-5DEF-E3FC3A03D080}|Assembly-CSharp.csproj|C:\\John Lemon\u0027s Haunted Jaunt\\assets\\unitytechnologies\\3dbeginnertutorial\\scripts\\waypointpatrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A670D93D-C6A0-7297-5DEF-E3FC3A03D080}|Assembly-CSharp.csproj|solutionrelative:assets\\unitytechnologies\\3dbeginnertutorial\\scripts\\waypointpatrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A670D93D-C6A0-7297-5DEF-E3FC3A03D080}|Assembly-CSharp.csproj|C:\\John Lemon\u0027s Haunted Jaunt\\assets\\unitytechnologies\\3dbeginnertutorial\\scripts\\observer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A670D93D-C6A0-7297-5DEF-E3FC3A03D080}|Assembly-CSharp.csproj|solutionrelative:assets\\unitytechnologies\\3dbeginnertutorial\\scripts\\observer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WaypointPatrol.cs",
+              "DocumentMoniker": "C:\\John Lemon\u0027s Haunted Jaunt\\Assets\\UnityTechnologies\\3DBeginnerTutorial\\Scripts\\WaypointPatrol.cs",
+              "RelativeDocumentMoniker": "Assets\\UnityTechnologies\\3DBeginnerTutorial\\Scripts\\WaypointPatrol.cs",
+              "ToolTip": "C:\\John Lemon\u0027s Haunted Jaunt\\Assets\\UnityTechnologies\\3DBeginnerTutorial\\Scripts\\WaypointPatrol.cs",
+              "RelativeToolTip": "Assets\\UnityTechnologies\\3DBeginnerTutorial\\Scripts\\WaypointPatrol.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T17:50:20.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Observer.cs",
+              "DocumentMoniker": "C:\\John Lemon\u0027s Haunted Jaunt\\Assets\\UnityTechnologies\\3DBeginnerTutorial\\Scripts\\Observer.cs",
+              "RelativeDocumentMoniker": "Assets\\UnityTechnologies\\3DBeginnerTutorial\\Scripts\\Observer.cs",
+              "ToolTip": "C:\\John Lemon\u0027s Haunted Jaunt\\Assets\\UnityTechnologies\\3DBeginnerTutorial\\Scripts\\Observer.cs",
+              "RelativeToolTip": "Assets\\UnityTechnologies\\3DBeginnerTutorial\\Scripts\\Observer.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowCgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T17:02:04.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameEnding.cs",
+              "DocumentMoniker": "C:\\John Lemon\u0027s Haunted Jaunt\\Assets\\UnityTechnologies\\3DBeginnerTutorial\\Scripts\\GameEnding.cs",
+              "RelativeDocumentMoniker": "Assets\\UnityTechnologies\\3DBeginnerTutorial\\Scripts\\GameEnding.cs",
+              "ToolTip": "C:\\John Lemon\u0027s Haunted Jaunt\\Assets\\UnityTechnologies\\3DBeginnerTutorial\\Scripts\\GameEnding.cs",
+              "RelativeToolTip": "Assets\\UnityTechnologies\\3DBeginnerTutorial\\Scripts\\GameEnding.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAIwA0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T22:01:18.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "C:\\John Lemon\u0027s Haunted Jaunt\\Assets\\UnityTechnologies\\3DBeginnerTutorial\\Scripts\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\UnityTechnologies\\3DBeginnerTutorial\\Scripts\\PlayerMovement.cs",
+              "ToolTip": "C:\\John Lemon\u0027s Haunted Jaunt\\Assets\\UnityTechnologies\\3DBeginnerTutorial\\Scripts\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\UnityTechnologies\\3DBeginnerTutorial\\Scripts\\PlayerMovement.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T18:03:55.11Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

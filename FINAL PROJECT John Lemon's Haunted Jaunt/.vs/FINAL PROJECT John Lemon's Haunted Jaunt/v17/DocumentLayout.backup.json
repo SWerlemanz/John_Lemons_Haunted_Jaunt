@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Git\\John_Lemons_Haunted_Jaunt\\FINAL PROJECT John Lemon\u0027s Haunted Jaunt\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CEF0B4F7-4444-DBFE-BAEF-63E3ED75C592}|Assembly-CSharp.csproj|c:\\git\\john_lemons_haunted_jaunt\\final project john lemon\u0027s haunted jaunt\\assets\\unitytechnologies\\3dbeginnertutorial\\scripts\\gameending.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEF0B4F7-4444-DBFE-BAEF-63E3ED75C592}|Assembly-CSharp.csproj|solutionrelative:assets\\unitytechnologies\\3dbeginnertutorial\\scripts\\gameending.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEF0B4F7-4444-DBFE-BAEF-63E3ED75C592}|Assembly-CSharp.csproj|c:\\git\\john_lemons_haunted_jaunt\\final project john lemon\u0027s haunted jaunt\\assets\\unitytechnologies\\3dbeginnertutorial\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEF0B4F7-4444-DBFE-BAEF-63E3ED75C592}|Assembly-CSharp.csproj|solutionrelative:assets\\unitytechnologies\\3dbeginnertutorial\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEF0B4F7-4444-DBFE-BAEF-63E3ED75C592}|Assembly-CSharp.csproj|C:\\Git\\John_Lemons_Haunted_Jaunt\\FINAL PROJECT John Lemon\u0027s Haunted Jaunt\\assets\\unitytechnologies\\3dbeginnertutorial\\scripts\\attack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEF0B4F7-4444-DBFE-BAEF-63E3ED75C592}|Assembly-CSharp.csproj|solutionrelative:assets\\unitytechnologies\\3dbeginnertutorial\\scripts\\attack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEF0B4F7-4444-DBFE-BAEF-63E3ED75C592}|Assembly-CSharp.csproj|C:\\Git\\John_Lemons_Haunted_Jaunt\\FINAL PROJECT John Lemon\u0027s Haunted Jaunt\\assets\\unitytechnologies\\3dbeginnertutorial\\scripts\\enemydestroy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEF0B4F7-4444-DBFE-BAEF-63E3ED75C592}|Assembly-CSharp.csproj|solutionrelative:assets\\unitytechnologies\\3dbeginnertutorial\\scripts\\enemydestroy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameEnding.cs",
+              "DocumentMoniker": "C:\\Git\\John_Lemons_Haunted_Jaunt\\FINAL PROJECT John Lemon\u0027s Haunted Jaunt\\Assets\\UnityTechnologies\\3DBeginnerTutorial\\Scripts\\GameEnding.cs",
+              "RelativeDocumentMoniker": "Assets\\UnityTechnologies\\3DBeginnerTutorial\\Scripts\\GameEnding.cs",
+              "ToolTip": "C:\\Git\\John_Lemons_Haunted_Jaunt\\FINAL PROJECT John Lemon\u0027s Haunted Jaunt\\Assets\\UnityTechnologies\\3DBeginnerTutorial\\Scripts\\GameEnding.cs",
+              "RelativeToolTip": "Assets\\UnityTechnologies\\3DBeginnerTutorial\\Scripts\\GameEnding.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T16:45:44.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EnemyDestroy.cs",
+              "DocumentMoniker": "C:\\Git\\John_Lemons_Haunted_Jaunt\\FINAL PROJECT John Lemon\u0027s Haunted Jaunt\\Assets\\UnityTechnologies\\3DBeginnerTutorial\\Scripts\\EnemyDestroy.cs",
+              "RelativeDocumentMoniker": "Assets\\UnityTechnologies\\3DBeginnerTutorial\\Scripts\\EnemyDestroy.cs",
+              "ToolTip": "C:\\Git\\John_Lemons_Haunted_Jaunt\\FINAL PROJECT John Lemon\u0027s Haunted Jaunt\\Assets\\UnityTechnologies\\3DBeginnerTutorial\\Scripts\\EnemyDestroy.cs",
+              "RelativeToolTip": "Assets\\UnityTechnologies\\3DBeginnerTutorial\\Scripts\\EnemyDestroy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T21:36:42.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Attack.cs",
+              "DocumentMoniker": "C:\\Git\\John_Lemons_Haunted_Jaunt\\FINAL PROJECT John Lemon\u0027s Haunted Jaunt\\Assets\\UnityTechnologies\\3DBeginnerTutorial\\Scripts\\Attack.cs",
+              "RelativeDocumentMoniker": "Assets\\UnityTechnologies\\3DBeginnerTutorial\\Scripts\\Attack.cs",
+              "ToolTip": "C:\\Git\\John_Lemons_Haunted_Jaunt\\FINAL PROJECT John Lemon\u0027s Haunted Jaunt\\Assets\\UnityTechnologies\\3DBeginnerTutorial\\Scripts\\Attack.cs",
+              "RelativeToolTip": "Assets\\UnityTechnologies\\3DBeginnerTutorial\\Scripts\\Attack.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T21:20:16.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "C:\\Git\\John_Lemons_Haunted_Jaunt\\FINAL PROJECT John Lemon\u0027s Haunted Jaunt\\Assets\\UnityTechnologies\\3DBeginnerTutorial\\Scripts\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\UnityTechnologies\\3DBeginnerTutorial\\Scripts\\PlayerMovement.cs",
+              "ToolTip": "C:\\Git\\John_Lemons_Haunted_Jaunt\\FINAL PROJECT John Lemon\u0027s Haunted Jaunt\\Assets\\UnityTechnologies\\3DBeginnerTutorial\\Scripts\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\UnityTechnologies\\3DBeginnerTutorial\\Scripts\\PlayerMovement.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAIwHAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T16:57:02.239Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
